@@ -1,0 +1,17 @@
+.item-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+}
+.item-container:hover{
+    background-color: rgb(238, 238, 238);
+}
+.veg{
+    color: green;
+
+}
+
+.non-veg{
+    color: red;
+}
